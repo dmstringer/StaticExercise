@@ -1,1 +1,1 @@
-"# StaticExercise" 
+# StaticExercise
